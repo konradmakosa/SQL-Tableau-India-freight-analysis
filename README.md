@@ -1,4 +1,4 @@
-# SQL Tableau India freight analysis private
+# SQL Tableau - India freight analysis
 
 ![](https://github.com/konradmakosa/SQL-Tableau-India-freight-analysis-private/blob/main/images/sql-tableau.gif)
 <br>
